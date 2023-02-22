@@ -1,0 +1,4 @@
+#Mon Feb 20 15:42:39 CST 2023
+base.0=/Users/karan/Desktop/VR/Test Project 2-20/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
